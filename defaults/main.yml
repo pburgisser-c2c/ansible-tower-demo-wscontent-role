@@ -1,0 +1,2 @@
+---
+web_msg: "Hello I'm {{ inventory_hostname }}"
